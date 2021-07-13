@@ -159,8 +159,7 @@ hr{
 Media query start here
 ----------------------- */
 @media only screen and (max-width:688px) {
-    nav{
-    }
+
     .container{
         width: 100%;
     }
